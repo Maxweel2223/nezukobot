@@ -3,7 +3,7 @@ const token = '8452310921:AAHXh-NEHCWSnVHmamM8fXFhu-shaq2eDfU';
 const bot = new TelegramBot(token, { polling: true });
 
 bot.onText(/\/start/, msg => {
-  bot.sendMessage(msg.chat.id, 'Support: t.me/rbzin22 \nHello! Choose your pack:', {
+  bot.sendMessage(msg.chat.id, 'Support: t.me/VIP_LkViking \nHello! Choose your pack:', {
     reply_markup: {
       inline_keyboard: [
         [{ text: 'Abbi', callback_data: 'video1' }],
@@ -49,398 +49,383 @@ bot.on('callback_query', async q => {
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-abbi/Vid/Principal.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-abbi/Vid/Vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-abbi/Vid/Vid2.mp4'];
       finalCaption = `Abbi – THE BLONDE SLUT WHO CUMS IN 30 SECONDS!
 
-12-17 y/o, doll body, perky tits, tight wet pussy!
-50GB+ real vids: fingering, moaning, begging for cock!
-4K uncensored, she swallows EVERY drop!
+12-17 y/o, perky tits, tight pussy, real moans!
+50GB+ 4K uncensored: fingering, begging, swallowing!
 
-VIP ONLY – For real pervs!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY $15 → GET FULL PACK INSTANTLY!
+https://www.paypal.com/ncp/payment/RCXS8MUM2BBTL
+
+After payment, your MEGA link is sent in 60 seconds!
+DM proof: t.me/VIP_LkViking
 
 #Abbi #TeenSlut #CumQueen`;
       break;
 
     case 'video2':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-anita/Vid/pri.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-anita/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-anita/Vid/vid2.mp4'];
-      finalCaption = `Anita – THE BRUNETTE WHO SUCKS YOUR SOUL OUT!
+      finalCaption = `Anita – BRUNETTE BOUNCING ON COCK!
 
-Juicy ass, dripping pussy, 12-17 y/o pure fire!
-50GB+ vids: twerking on dick, loud moans, squirting hard!
-4K raw, she loves getting wrecked!
+Juicy ass, squirting, 12-17 y/o fire!
+50GB+ raw vids: twerking, loud orgasms!
 
-VIP FOR REAL MEN ONLY!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
+PAY $15 → FULL PACK IN 1 MINUTE!
+https://www.paypal.com/ncp/payment/29BSTPP7PB3QU
+
+Instant MEGA link after payment!
 DM: t.me/VIP_LkViking
 
-#Anita #BrunetteBaddie #WreckedPussy`;
+#Anita #BrunetteBaddie #SquirtQueen`;
       break;
 
     case 'video3':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-ash/Vid/principal.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-ash/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-ash/Vid/vid3.mp4'];
-      finalCaption = `Ash – THE REDHEAD WHO BEGS FOR ANAL!
+      finalCaption = `Ash – REDHEAD BEGS FOR ANAL!
 
-Perfect body, 12-17 y/o, tight ass, loves pain!
-50GB+ vids: ass stretching, crying & cumming!
-4K no limits, she squirts from anal!
+Tight ass, pain & pleasure, 12-17 y/o!
+50GB+ 4K: stretching, crying, cumming!
 
-VIP FOR HARDCORE ONLY!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
+PAY $15 → PACK DELIVERED NOW!
+https://www.paypal.com/ncp/payment/5P4K6K6YMKFUW
+
+MEGA link in 60 sec after payment!
 DM: t.me/VIP_LkViking
 
-#Ash #RedheadAnal #CumFromAss`;
+#Ash #AnalRedhead #CumFromPain`;
       break;
 
     case 'video4':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-ava/Vid/Principal.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-ava/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-ava/Vid/vid2.mp4'];
-      finalCaption = `Ava – THE ASIAN SUB WHO OBEYS EVERY COMMAND!
+      finalCaption = `Ava – ASIAN SUB OBEYS EVERY ORDER!
 
-Slanted eyes, 12-17 y/o, loves being called "slut"!
-50GB+ vids: collar, deep throat, face slaps!
-4K BDSM, she cums from submission!
+Collar, deep throat, slaps, 12-17 y/o!
+50GB+ BDSM: submission, tears, cum!
 
-VIP FOR DOMS ONLY!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
+PAY $15 → INSTANT FULL PACK!
+https://www.paypal.com/ncp/payment/S7V7USLF4UTYW
+
+Link sent instantly after payment!
 DM: t.me/VIP_LkViking
 
-#Ava #AsianSub #ObedientSlut`;
+#Ava #AsianSub #ObedientCum`;
       break;
 
     case 'video5':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-b/Vid/1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-b/Vid/2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-b/Vid/vid1.mp4'];
-      finalCaption = `Trinity-B – THE TWIN SLUTS WHO DO EVERYTHING TOGETHER!
+      finalCaption = `Trinity-B – TWIN SLUTS LICK & FUCK TOGETHER!
 
-Two identical pussies, 12-17 y/o, licking & fucking!
-50GB+ vids: double penetration, eating each other!
-4K lesbian hardcore, they cum in sync!
+Identical pussies, 12-17 y/o, double fun!
+50GB+ lesbian + DP: eating, moaning!
 
-VIP FOR TWIN LOVERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
+PAY $15.99 → PACK IN SECONDS!
+https://www.paypal.com/ncp/payment/N7PWMUPSRAJVG
+
+MEGA link auto-sent after payment!
 DM: t.me/VIP_LkViking
 
-#TrinityB #TwinSluts #DoubleCum`;
+#TrinityB #TwinSluts #DoubleOrgasm`;
       break;
 
     case 'video6':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-baby/Vid/Principal.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-baby/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-baby/Vid/vid2.mp4'];
-      finalCaption = `Baby-Ashlee – THE LOLITA WHO LOVES GETTING TORN AT 14!
+      finalCaption = `Baby-Ashlee – LOLITA GETS TORN APART!
 
-Tiny body, dirty mind, 12-17 y/o pure filth!
-50GB+ vids: losing virginity, screaming, cumming hard!
-4K uncut, she begs for pain!
+Tiny body, 12-17 y/o, screams & cums!
+50GB+ raw: virginity loss, pain play!
 
-VIP FOR THE SICK ONLY!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
+PAY $25 → FULL PACK NOW!
+https://www.paypal.com/ncp/payment/VY2XM9QFH9VHE
+
+Instant delivery after payment!
 DM: t.me/VIP_LkViking
 
-#BabyAshlee #LolitaWrecked #VirginBlood`;
+#BabyAshlee #LolitaWrecked #VirginScream`;
       break;
 
     case 'video7':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-black/Vid/vid1.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-black/Vid/vid3.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-black/Vid/vid4.mp4'];
-      finalCaption = `Black-Mail – THE BLACK GIRL BLACKMAILED INTO A SLUT!
+      finalCaption = `Black-Mail – BLACKMAILED INTO A CUM SLUT!
 
-Stolen vids, 12-17 y/o, crying & cumming!
-50GB+ vids: blackmail, humiliation, forced orgasms!
-4K real, she breaks and loves it!
+Stolen vids, 12-17 y/o, forced orgasms!
+50GB+ real: humiliation, tears!
 
-VIP FOR SADISTS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY $35 → PACK DELIVERED INSTANTLY!
+https://www.paypal.com/ncp/payment/5YZ6GZZBBJN6U
 
-#BlackMail #ForcedSlut #CumThroughTears`;
+MEGA link in 60 sec!
+
+
+#BlackMail #ForcedCum #TearsAndOrgasms`;
       break;
 
     case 'video8':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-cp1/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-cp1/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-cp1/Vid/vid3.mp4'];
-      finalCaption = `Cp-1 – CAUGHT FUCKING IN SCHOOL BATHROOM!
+      finalCaption = `Cp-1 – SCHOOL BATHROOM BANG!
 
-Uniform, 12-17 y/o, sucking in stalls, banging in halls!
-50GB+ vids: school, teacher, real risk!
-4K forbidden, she loves getting caught!
+Uniform, 12-17 y/o, teacher risk!
+50GB+ forbidden: sucking, fucking!
 
-VIP FOR PERV TEACHERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
-DM: t.me/VIP_LkViking
+PAY $30 → FULL PACK NOW!
+https://www.paypal.com/ncp/payment/6MN3U3KZ63EDY
 
-#CP1 #SchoolSlut #UniformCum`;
+Instant MEGA after payment!
+
+
+#CP1 #SchoolSlut #UniformRisk`;
       break;
 
     case 'video9':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-cp2/Vid/principal.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-cp2/Vid/vid3.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-cp2/Vid/vid1.mp4'];
-      finalCaption = `Cp-2 – LITTLE SISTER FUCKS BROTHER'S BEST FRIEND!
+      finalCaption = `Cp-2 – SISTER FUCKS BRO'S FRIEND!
 
-At home, 12-17 y/o, sneaking, quiet moans!
-50GB+ vids: betrayal, home, real family drama!
-4K secret, she loves cheating!
+Home betrayal, 12-17 y/o, quiet moans!
+50GB+ real drama: cheating, secrets!
 
-VIP FOR CHEATERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
-DM: t.me/VIP_LkViking
+PAY $30 → PACK IN 1 MIN!
+https://www.paypal.com/ncp/payment/FG4PFCAMM3FX4
 
-#CP2 #SisterCheats #HomeWrecker`;
+Link auto-sent!
+
+
+#CP2 #SisterCheats #HomeSecret`;
       break;
 
     case 'video10':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-cp3/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-cp3/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-cp3/Vid/vid3.mp4'];
-      finalCaption = `Cp-3 – FILMED NAKED ON THE BEACH!
+      finalCaption = `Cp-3 – NAKED ON THE BEACH!
 
-Bikini falls, 12-17 y/o, flashing, sucking in sand!
-50GB+ vids: public, sun, ocean sex!
-4K exhibitionist, she loves eyes on her!
+Public flash, 12-17 y/o, sand sex!
+50GB+ exhibition: bikini drop, cum!
 
-VIP FOR FLASHERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY $30 → INSTANT DELIVERY!
+https://www.paypal.com/ncp/payment/FVMKRZ3J7H3JN
 
-#CP3 #BeachNudes #PublicCum`;
+MEGA link in seconds!
+
+
+#CP3 #BeachFlash #PublicCum`;
       break;
 
     case 'video11':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-dad/Vid/3.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-dad/Vid/2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-dad/Vid/p.mp4'];
-      finalCaption = `Father & Daughter – DADDY'S GIRL LOVES HIS BIG COCK!
+      finalCaption = `Father & Daughter – DADDY'S LITTLE SECRET!
 
-12-17 y/o, bedroom secrets, "daddy" moans!
-50GB+ vids: real incest, muffled screams!
-4K taboo, she begs for cum inside!
+12-17 y/o, bedroom, "daddy" moans!
+50GB+ real incest: cum inside!
 
-VIP FOR DADDY'S PERVS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
-DM: t.me/VIP_LkViking
+PAY NOW → PACK IN 60 SEC!
+https://www.paypal.com/ncp/payment/ZEEEF5V7GYBTC
 
-#FatherDaughter #DaddyInside #TabooCum`;
+Auto MEGA link!
+
+
+#FatherDaughter #DaddyCum #TabooLove`;
       break;
 
     case 'video12':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-dark/Vid/vid1.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-dark/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-dark/Vid/vid3.mp4'];
-      finalCaption = `Darkzadie – GOTH GIRL CUMS IN SATANIC RITUAL!
+      finalCaption = `Darkzadie – GOTH RITUAL CUM!
 
-Candles, 12-17 y/o, pentagram, masturbating for the devil!
-50GB+ vids: dark, occult, ritual orgasms!
-4K evil, she screams in ecstasy!
+Candles, 12-17 y/o, satanic orgasm!
+50GB+ dark: pentagram, screams!
 
-VIP FOR SATANISTS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
-DM: t.me/VIP_LkViking
+PAY → FULL PACK INSTANT!
+https://www.paypal.com/ncp/payment/EF6NQMUN5WNE6
 
-#Darkzadie #GothSlut #SatanicCum`;
+Link in 1 min!
+
+
+#Darkzadie #SatanicSlut #RitualCum`;
       break;
 
     case 'video13':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-garcia/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-garcia/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-garcia/Vid/vid3.MP4'];
-      finalCaption = `Decire-Garcia – LATINA TWERKING ON COCK!
+      finalCaption = `Decire-Garcia – LATINA TWERK ON COCK!
 
-Booty shake, 12-17 y/o, funk, drops it low!
-50GB+ vids: dance, grind, cock in face!
-4K Brazilian heat, she cums dancing!
+Booty shake, 12-17 y/o, Brazilian heat!
+50GB+ dance & fuck: grind, cum!
 
-VIP FOR TWERK LOVERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY → PACK NOW! 👇
+https://www.paypal.com/ncp/payment/9CQNN67LZ79RN
+
+Instant MEGA!
 
 #DecireGarcia #LatinaTwerk #CockDance`;
       break;
 
     case 'video14':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-incest/Vid/2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-incest/Vid/3.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-incest/Vid/1.mp4'];
-      finalCaption = `INCEST – BROTHERS, COUSINS, UNCLES: FAMILY FUCK FEST!
+      finalCaption = `INCEST – FAMILY FUCK FEST!
 
-12-17 y/o, home secrets, bathrooms, bedrooms!
-50GB+ vids: sibling sex, uncle-niece, cousin love!
-4K real, no one knows!
+Siblings, cousins, 12-17 y/o secrets!
+50GB+ real: home, bathroom, cum!
 
-VIP FOR FAMILY PERVS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
-DM: t.me/VIP_LkViking
+PAY → FULL PACK IN SECONDS! 👇
+https://www.paypal.com/ncp/payment/ER4BSRLEB47KE
 
-#INCEST #FamilyFuck #SecretCum`;
+Auto delivery!
+
+#INCEST #FamilyCum #SecretSex`;
       break;
 
     case 'video15':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-ivank/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-ivank/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-ivank/Vid/p.mp4'];
-      finalCaption = `Ivanka & Brother – BLONDE SISTER CAN'T RESIST BRO'S COCK!
+      finalCaption = `Ivanka & Brother – SISTER LOVES BRO'S COCK!
 
-Next room, 12-17 y/o, sneaks into his shower naked!
-50GB+ vids: brother eats sister, cums on face!
-4K secret, she loves her bro!
+12-17 y/o, sneaks in shower, face cum!
+50GB+ sibling: eating, moaning!
 
-VIP FOR SIBLING LOVERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
-DM: t.me/VIP_LkViking
+PAY → PACK NOW!
+https://www.paypal.com/ncp/payment/X7YQ2XJZGYTFG
 
-#IvankaBrother #SisterFaceCum #SiblingSecret`;
+Instant link!
+
+#IvankaBrother #SiblingCum #ShowerSecret`;
       break;
 
     case 'video16':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-izzy/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-izzy/Vid/vid3.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-izzy/Vid/principal.MP4'];
-      finalCaption = `Izzy – EMO GIRL DEEPTHROATS TIL SHE CRIES!
+      finalCaption = `Izzy – EMO DEEPTHROAT TIL TEARS!
 
-Black lipstick, 12-17 y/o, gagging, tears!
-50GB+ vids: emo, throat fuck, cum in throat!
-4K pain play, she loves suffering!
+Black lips, 12-17 y/o, gagging!
+50GB+ pain: throat fuck, cum!
 
-VIP FOR EMO PERVS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY → FULL PACK!
+https://www.paypal.com/ncp/payment/EP4J2FS55J5RQ
+
+MEGA in 60 sec!
 
 #Izzy #EmoThroat #CumTears`;
       break;
 
     case 'video17':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-jess/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-jess/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-jess/Vid/vid3.mp4'];
-      finalCaption = `Jess – NERD TAKES OFF GLASSES AND BECOMES A WHORE!
+      finalCaption = `Jess – NERD TURNS INTO SLUT!
 
-Books, 12-17 y/o, after study she spreads wide!
-50GB+ vids: nerd corruption, cum on books!
-4K transformation, she loves being ruined!
+Glasses off, 12-17 y/o, ruined!
+50GB+ corruption: cum on books!
 
-VIP FOR NERD CORRUPTERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
-DM: t.me/VIP_LkViking
+PAY → PACK NOW!
+https://www.paypal.com/ncp/payment/3N27U4DSPC77J
 
-#Jess #NerdSlut #CumOnBooks`;
+Instant delivery!
+
+#Jess #NerdSlut #BookCum`;
       break;
 
     case 'video18':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-lizzy/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-lizzy/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-lizzy/Vid/vid3.mp4'];
-      finalCaption = `Lizzy & Brother – TWIN SISTERS SHARE EVERYTHING... EVEN COCK!
+      finalCaption = `Lizzy & Brother – TWINS SHARE COCK!
 
-Same face, 12-17 y/o, one sucks while other cums!
-50GB+ vids: twins, brother, double penetration!
-4K identical, they cum together!
+Identical, 12-17 y/o, double cum!
+50GB+ DP: sucking, moaning!
 
-VIP FOR TWIN PERVS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
-DM: t.me/VIP_LkViking
+PAY → FULL PACK!
+https://www.paypal.com/ncp/payment/GVZ76XWV57VC4
 
-#LizzyBrother #TwinCock #DoubleOrgasm`;
+Link in seconds!
+
+#LizzyBrother #TwinCum #DoubleDP`;
       break;
 
     case 'video19':
-      videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-marry/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-marry/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-marry/Vid/principal.mp4'];
-      finalCaption = `Mary-H – VIRGIN DEFLOWERED BEHIND THE ALTAR!
+      videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-marry/Vid/vid2.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-marry/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-marry/Vid/principal.mp4'];
+      finalCaption = `Mary-H – VIRGIN FUCKED IN CHURCH!
 
-Holy girl, 12-17 y/o, "Forgive me God" moans!
-50GB+ vids: church, priest, confessional cum!
-4K sin, she loves punishment!
+12-17 y/o, altar, "Forgive me"!
+50GB+ sin: priest, confession cum!
 
-VIP FOR SINNERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY → PACK NOW!
+https://www.paypal.com/ncp/payment/J3PJY8VQD4C42
 
-#MaryH #ChurchSlut #CumInConfession`;
+Instant MEGA!
+
+#MaryH #ChurchSlut #ConfessionCum`;
       break;
 
     case 'video20':
-      videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-mom/Vid/%40OnlyFansVerseDrops%20Telegram_xWo0wyo.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-mom/Vid/principal.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-mom/Vid/vid1.mp4'];
-      finalCaption = `Mom and Son – MOMMY TEACHES SON WITH HER BODY!
+      videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-mom/Vid/%40OnlyFansVerseDrops%20Telegram_xWo0wyo.mp4','https://bot-videos.b-cdn.net/Previas-mom/Vid/principal.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-mom/Vid/vid1.mp4'];
+      finalCaption = `Mom and Son – MOMMY TEACHES WITH PUSSY!
 
-12-17 y/o son, she "helps" in shower, bed, kitchen!
-50GB+ vids: real incest, mom cums teaching!
-4K maternal, she loves being naughty mom!
+12-17 y/o son, shower, bed!
+50GB+ real: maternal cum!
 
-VIP FOR MOMMY'S BOYS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
-DM: t.me/VIP_LkViking
+PAY → FULL PACK!
+https://www.paypal.com/ncp/payment/V2SW7ZMSKWZYL
 
-#MomSon #MommySlut #TeachingCum`;
+Auto link!
+
+#MomSon #MommyCum #TeachingSlut`;
       break;
 
     case 'video21':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-monkey/Vid/vid1.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-monkey/Vid/principal.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-monkey/Vid/vid3.MP4'];
-      finalCaption = `Monkey-App – GIRLS FLASH EVERYTHING LIVE!
+      finalCaption = `Monkey-App – LIVE NAKED FLASH!
 
-12-17 y/o, live stream, stripping for coins!
-50GB+ recordings: live nudes, on-cam orgasms!
-4K online, they cum for you!
+12-17 y/o, stripping for coins!
+50GB+ recordings: cam cum!
 
-VIP FOR LIVE PERVS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
-DM: t.me/VIP_LkViking
+PAY → PACK NOW!
+https://www.paypal.com/ncp/payment/MUCRMSZHRYG76
 
-#MonkeyApp #LiveFlash #CamCum`;
+Instant delivery!
+
+#MonkeyApp #LiveNudes #CamOrgasm`;
       break;
 
     case 'video22':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-omegle/Vid/principal.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-omegle/Vid/vid1.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-omegle/Vid/vid2.MP4'];
-      finalCaption = `Omegle Leaks – STRANGERS FUCK ON WEBCAM!
+      finalCaption = `Omegle Leaks – STRANGERS FUCK ON CAM!
 
-12-17 y/o, random chat, spreading for strangers!
-50GB+ recordings: webcam, anonymous, risky cum!
-4K danger, she loves the thrill!
+12-17 y/o, random, risky cum!
+50GB+ webcam: anonymous sex!
 
-VIP FOR ANON PERVS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY → FULL PACK!
+https://www.paypal.com/ncp/payment/ETHGFTJ8JYVEA
 
-#OmegleLeaks #StrangerFuck #RiskyCum`;
+Link in 60 sec!
+
+#OmegleLeaks #StrangerCum #RiskySex`;
       break;
 
     case 'video23':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-pc4/Vid/principal.mov','https://bot-videos.b-cdn.net/SubPacks/Previas-pc4/Vid/vid2.mov','https://bot-videos.b-cdn.net/SubPacks/Previas-pc4/Vid/vid3.mov'];
-      finalCaption = `Cp-4 – FILMED BY NEIGHBOR THROUGH WINDOW!
+      finalCaption = `Cp-4 – SPYED BY NEIGHBOR!
 
-12-17 y/o, naked, masturbating, doesn't know!
-50GB+ vids: voyeur, hidden, secret orgasms!
-4K real, she's clueless!
+Window, 12-17 y/o, naked & cumming!
+50GB+ voyeur: she doesn't know!
 
-VIP FOR VOYEURS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant drop!
-DM: t.me/VIP_LkViking
+PAY $30 → PACK NOW!
+https://www.paypal.com/ncp/payment/CEB69SPUKMX6J
 
-#CP4 #NeighborSpy #SecretCum`;
+Instant MEGA!
+
+#CP4 #NeighborSpy #SecretMasturbation`;
       break;
 
     case 'video24':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-savannah/Vid/SVN3.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-savannah/Vid/SVN5.mp4','https://bot-videos.b-cdn.net/SubPacks/Previas-savannah/Vid/SVN2.mp4'];
-      finalCaption = `Savannah – BLONDE SQUIRTS IN PUBLIC PARK!
+      finalCaption = `Savannah – PUBLIC SQUIRT IN PARK!
 
-12-17 y/o, soaks the ground, people watching!
-50GB+ vids: squirting, public, exhibition!
-4K wet mess, she loves the crowd!
+12-17 y/o, soaks ground, people watch!
+50GB+ exhibition: wet mess!
 
-VIP FOR SQUIRT LOVERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant access!
-DM: t.me/VIP_LkViking
+PAY → FULL PACK!
+https://www.paypal.com/ncp/payment/PJFQK6Q2GJ4T4
 
-#Savannah #PublicSquirt #SoakedGround`;
+Auto delivery!
+
+#Savannah #PublicSquirt #SoakedPark`;
       break;
 
     case 'video25':
       videoList = ['https://bot-videos.b-cdn.net/SubPacks/Previas-Uflash/Vid/2.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-Uflash/Vid/3.MP4','https://bot-videos.b-cdn.net/SubPacks/Previas-Uflash/Vid/1.mp4'];
-      finalCaption = `Uflash – PUSSY FLASH ON BUS, TRAIN, STREET!
+      finalCaption = `Uflash – PUSSY FLASH IN PUBLIC!
 
-12-17 y/o, no panties, upskirt in public!
-50GB+ vids: public flash, risky, cum from fear!
-4K danger, she cums scared!
+Bus, train, no panties, 12-17 y/o!
+50GB+ risk: cum from fear!
 
-VIP FOR FLASHERS!
-$25 Pack | $90 5x | $150 Full
-BTC/USDT → Instant link!
-DM: t.me/VIP_LkViking
+PAY → PACK NOW!
+https://www.paypal.com/ncp/payment/2ETJP6B8FBFA4
 
 #Uflash #PublicPussy #ScaredCum`;
       break;
@@ -462,4 +447,4 @@ DM: t.me/VIP_LkViking
   }
 });
 
-console.log('Bot started: 25 PACKS – FULL ENGLISH – ULTRA HOT CAPTIONS!');
+console.log('Robô Iniciado Boas Vendas! 🛒♻♻');
